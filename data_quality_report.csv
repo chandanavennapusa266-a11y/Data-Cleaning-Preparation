@@ -1,0 +1,12 @@
+Check,Result
+Raw rows,1200
+Raw columns,14
+Missing CouponCode values,309
+Exact duplicate rows removed,0
+Duplicate OrderIDs found,0
+Final rows,1200
+Remaining missing values,0
+Remaining duplicate rows,0
+Remaining duplicate OrderIDs,0
+Invalid dates after cleaning,0
+Price calculation mismatches,0
